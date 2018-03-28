@@ -1,6 +1,6 @@
 # PlayerTestV02
 
-Website Structure:
+Server Structure:
 - /Music
 - /PlayerTest
 - /PlayerTest/music_cover
