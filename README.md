@@ -7,7 +7,7 @@ Server Structure:
 - /PlayerTest/playlist_cover
 - /PlayerTest/user_cover
 - /PlayerTest/playlistJsonBackup
-- /crud.php
-- /get_music163_playlist.py
+- /PlayerTest/crud.php
+- /PlayerTest/get_music163_playlist.py
 
 Database file: player_test_2_db.sql
